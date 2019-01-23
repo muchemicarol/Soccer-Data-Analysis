@@ -10,7 +10,7 @@ Purpose of this Case Study is to:
 * numpy
 * pandas
 * scikit-learn
-* matplotlip
+* matplotlib
 * jupyter notebook
 
 ## Installation Commands
