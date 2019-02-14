@@ -25,3 +25,4 @@ matplotlib:       $ sudo apt-get install libfreetype6-dev libpng-dev
 jupyter notebook: $ sudo apt-get -y install ipython ipython-notebook
                   $ sudo pip3 install jupyter
 ```
+### *Courtesy of University of California San Diego*
