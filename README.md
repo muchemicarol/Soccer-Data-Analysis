@@ -17,6 +17,9 @@ Purpose of this Case Study is to:
 I'm working on Linux OS (Ubuntu 18.04.1 LTS) so command for installing dependecies is given below.
 
 ```
+python3           $ sudo add-apt-repository ppa:jonathonf/python-3.6
+                  $ sudo apt-get update
+                  $ sudo apt-get install python3.6
 pandas:           $ sudo pip3 install pandas
 numpy:            $ sudo pip3 install numpy
 scikit-learn:     $ sudo pip3 install -U scikit-learn
