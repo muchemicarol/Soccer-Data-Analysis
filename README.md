@@ -1,4 +1,4 @@
-# Soccer Data Analysis
+# Soccer Data Analysis (UC SAN DIEGO)
 
 Purpose of this Case Study is to:
 1. Form meaningful player groups.
